@@ -1,2 +1,4 @@
 # DELO
-moje delo
+projekti s CPLDjem
+
+
